@@ -1,4 +1,4 @@
-# Flash Chat (Em Desenvolvimento) - Projeto Flutter
+# Flash Chat - Projeto Flutter
 
 Este projeto consiste em uma aplicação desenvolvida em Flutter para troca de mensagens, onde os dados das conversas são armazenados no Firebase.
 
@@ -19,6 +19,8 @@ Este projeto consiste em uma aplicação desenvolvida em Flutter para troca de m
 - **ButtonMaterial**: Botão padrão das principais telas.
 - **Constants**: Todas as constantes, principalmente styles.
 - **FirebaseOptions**: Possui todas as informações necessárias para estabelecer a comunicação com o banco de dados.
+- **MessageBubble**: Cria as "bolhas" de mensagens do chat.
+- **MessageStream**: Retorna um StreamBuilder que contém todas as mensagens das conversas e acompanha as atualizações dos dados para atualizar as mensagens mostradas na tela.
 - **main**: Inicializa o app.
 
 ## Como Executar
