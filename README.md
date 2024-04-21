@@ -11,6 +11,7 @@ Este projeto consiste em uma aplicação desenvolvida em Flutter para troca de m
 - **firebase_core**: Pacote para inicialização do Firebase.
 - **firebase_auth**: Biblioteca Flutter para autenticação de usuários no Firebase.
 - **cloud_firestore**: Pacote para acesso ao banco de dados Firestore do Firebase.
+- **modal_progress_hud_nsn**: Pacote para acesso a um widget de carregamento que aparece quando alguma ação está sendo processada.
 
 ## Classes e Arquivos do Projeto
 - **ChatScreen**: Tela de conversa.
